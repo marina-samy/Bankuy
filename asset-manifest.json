@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Bankuy/static/css/main.059cca29.css",
+    "main.js": "/Bankuy/static/js/main.c1e8b1dd.js",
+    "static/media/robot.png": "/Bankuy/static/media/robot.b3924d6a4b8b19ef9de9.png",
+    "static/media/card.png": "/Bankuy/static/media/card.a2e9df80e8b4106cace9.png",
+    "static/media/Group-97.png": "/Bankuy/static/media/Group-97.5ce6a0764b7e7c7fe34c.png",
+    "static/media/Group-200-1.png": "/Bankuy/static/media/Group-200-1.163c0c10f9a1e3b95478.png",
+    "static/media/Group-73-3.png": "/Bankuy/static/media/Group-73-3.560d1aafebbf6329191c.png",
+    "static/media/Group-200.png": "/Bankuy/static/media/Group-200.cc32f8b831fd19d6993e.png",
+    "static/media/Group-93-2.png": "/Bankuy/static/media/Group-93-2.85a7bd6fad8b6c19efa4.png",
+    "static/media/Group-95.png": "/Bankuy/static/media/Group-95.4b0856d4dc291fbcae81.png",
+    "static/media/feat.png": "/Bankuy/static/media/feat.dd70d55aabdd7429aafe.png",
+    "static/media/map_mobile.png": "/Bankuy/static/media/map_mobile.74c0d48749d3fd03d181.png",
+    "static/media/Group-50.png": "/Bankuy/static/media/Group-50.7cac0d58f103fc5177c5.png",
+    "static/media/Ellipse-54-1.png": "/Bankuy/static/media/Ellipse-54-1.0652756568644113d6db.png",
+    "static/media/asd-1.png": "/Bankuy/static/media/asd-1.fae1e1c86f654b2bb9c7.png",
+    "static/media/Group-97-1.png": "/Bankuy/static/media/Group-97-1.e47721fa9746b41dcde3.png",
+    "static/media/Group-94.png": "/Bankuy/static/media/Group-94.4b3984d44d9e754b9964.png",
+    "index.html": "/Bankuy/index.html",
+    "main.059cca29.css.map": "/Bankuy/static/css/main.059cca29.css.map",
+    "main.c1e8b1dd.js.map": "/Bankuy/static/js/main.c1e8b1dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.059cca29.css",
+    "static/js/main.c1e8b1dd.js"
+  ]
+}
